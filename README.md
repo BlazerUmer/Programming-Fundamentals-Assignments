@@ -20,14 +20,13 @@ This repository contains my coursework, assignments, and homework submissions fo
 
 ### 4. Assignment 2
 * **Focus:** 1D arrays, nested loops, and the Fibonacci sequence.
-* **Content:** Contains "6" C++ programs built around array handling, nested loop patterns, and Fibonacci-based problems, **including:**
-* A menu-driven Fibonacci program with 4 selectable tasks, all powered by a single 1D array that stores the sequence once and is reused by every task:
-*Look up any k Fibonacci numbers by index (e.g. F6 = 8)
-*Print all Fibonacci numbers less than T
-*Print all Fibonacci numbers between a Start and an End value
-*Find the sum of the even-valued Fibonacci terms not exceeding four million (4613732)
+* **Content:** Contains **6 C++ programs** built around array handling, nested loop patterns, and Fibonacci-based problems, including:
+  * A **menu-driven Fibonacci program** with **4 selectable tasks**, all powered by a single 1D array that stores the sequence once and is reused by every task:
+    * Look up any `k` Fibonacci numbers by index (e.g. `F6 = 8`)
+    * Print all Fibonacci numbers less than `T`
+    * Print all Fibonacci numbers between a `Start` and an `End` value
+    * Find the sum of the even-valued Fibonacci terms not exceeding four million (`4613732`)
 ---
-
 ## 🛠️ Languages & Tools Used
 
 * **Language:** C++ (`.cpp`)
